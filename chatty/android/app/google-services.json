@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910053826250",
+    "project_id": "birdapp-df9ed",
+    "storage_bucket": "birdapp-df9ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910053826250:android:bb078aeb59fcbd1cd01e33",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW7K4Ue230fFZZc6JNuyU5q8WcMIOHpiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
