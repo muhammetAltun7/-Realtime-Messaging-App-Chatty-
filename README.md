@@ -78,4 +78,24 @@ I used Firebase services for this project.
 
 ## Developer
 
+🚀 Setup Instructions
+Extract the Project: Download the repository and extract the ZIP file to a permanent folder on your computer.
+
+Open in Android Studio: Open Android Studio and select the chatty folder as the project root.
+
+Configure SDK:
+
+If you see a "Dart SDK is not configured" warning at the top, click on "Open Dart settings".
+
+Ensure the "Enable Dart support for the project 'chatty'" checkbox is ticked.
+
+Select your local Flutter SDK path (e.g., C:\src\flutter).
+
+Fetch Dependencies:
+
+Open the terminal in Android Studio and run:
+
+Bash
+flutter pub get
+
 MUHAMMET ALTUN - COMPUTER ENGINEERING STUDENT
