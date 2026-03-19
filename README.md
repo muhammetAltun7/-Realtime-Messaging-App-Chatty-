@@ -8,37 +8,38 @@ I developed the application using Firebase Authentication, Cloud Firestore, and 
 
 ## Features
 
-🔐 User Authentication
-- Sign up with Firebase Authentication
-- User login
-- Secure logout
+🔐 User Authentication  
+- Sign up with Firebase Authentication  
+- User login  
+- Secure logout  
 
-💬 Real-Time Messaging
-- Send messages between users
-- Store messages using Firestore
-- Real-time data updates
+💬 Real-Time Messaging  
+- Send messages between users  
+- Store messages using Firestore  
+- Real-time data updates  
 
-⚙️ State Management
-- Application state management using Provider
+⚙️ State Management  
+- Application state management using Provider  
 
-🎨 Flutter UI
-- Material Design components
-- Custom widget usage
+🎨 Flutter UI  
+- Material Design components  
+- Custom widget usage  
 
 ---
 
 ## 🛠 Technologies Used
 
-- Flutter
-- Dart
-- Firebase Authentication
-- Cloud Firestore
-- Provider
+- Flutter  
+- Dart  
+- Firebase Authentication  
+- Cloud Firestore  
+- Provider  
 
 ---
 
 ## 📂 Project Structure
 
+```bash
 lib/
 
 components/          # Reusable widgets
@@ -67,35 +68,46 @@ chat/
 
 firebase_options.dart
 main.dart
+```
 
+---
 
 ## 🔥 Firebase Services
 
 I used Firebase services for this project.
 
-- Firebase Authentication → User authentication system
-- Cloud Firestore → Real-time message database
+- Firebase Authentication → User authentication system  
+- Cloud Firestore → Real-time message database  
+
+---
+
+## 🚀 Setup Instructions
+
+📦 **Extract the Project**  
+- Download the repository and extract the ZIP file to a permanent folder on your computer.
+
+🛠 **Open in Android Studio**  
+- Open Android Studio and select the **chatty** folder as the project root.
+
+⚙️ **Configure SDK**  
+- If you see a *"Dart SDK is not configured"* warning at the top, click on **"Open Dart settings"**  
+- Ensure the **"Enable Dart support for the project 'chatty'"** checkbox is ticked  
+- Select your local Flutter SDK path *(e.g., `C:\src\flutter`)*  
+
+📥 **Fetch Dependencies**  
+- Open the terminal in Android Studio and run:
+
+```bash
+flutter pub get
+```
+
+▶️ **Run the App**  
+- Select your emulator or physical device  
+- Press the **Run (▶️)** button in Android Studio  
+
+---
 
 ## Developer
 
-🚀 Setup Instructions
-Extract the Project: Download the repository and extract the ZIP file to a permanent folder on your computer.
-
-Open in Android Studio: Open Android Studio and select the chatty folder as the project root.
-
-Configure SDK:
-
-If you see a "Dart SDK is not configured" warning at the top, click on "Open Dart settings".
-
-Ensure the "Enable Dart support for the project 'chatty'" checkbox is ticked.
-
-Select your local Flutter SDK path (e.g., C:\src\flutter).
-
-Fetch Dependencies:
-
-Open the terminal in Android Studio and run:
-
-Bash
-flutter pub get
-
-MUHAMMET ALTUN - COMPUTER ENGINEERING STUDENT
+**MUHAMMET ALTUN**  
+Computer Engineering Student 🚀  
