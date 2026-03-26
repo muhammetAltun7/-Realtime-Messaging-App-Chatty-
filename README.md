@@ -3,12 +3,11 @@
 Chatty is a real-time messaging application that I developed using Flutter. Users can create an account, log in, and send instant messages to other users.
 
 I developed the application using Firebase Authentication, Cloud Firestore, and Provider-based state management.
+<img width="294" height="619" alt="1" src="https://github.com/user-attachments/assets/d5fb6f6b-bdf1-4a1a-b09f-c89690e1ec91" />
 
 <img width="291" height="616" alt="3" src="https://github.com/user-attachments/assets/25e39d89-22a2-4191-ad69-a74a5599d8fb" />
 
 <img width="291" height="619" alt="2" src="https://github.com/user-attachments/assets/c556e11c-d64d-482c-893f-a7364820cd23" />
-
-<img width="294" height="619" alt="1" src="https://github.com/user-attachments/assets/d5fb6f6b-bdf1-4a1a-b09f-c89690e1ec91" />
 
 <img width="290" height="615" alt="5" src="https://github.com/user-attachments/assets/6dce2472-b824-499c-abbf-6722680358a1" />
 
